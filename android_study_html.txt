@@ -1,0 +1,169 @@
+Java 基础
+Java基础学习总结——流 https://www.liaoxuefeng.com/wiki/1022910821149312/1023022460826944
+Java基础学习流（孤傲苍狼） https://www.cnblogs.com/xdp-gacl/p/3634409.html2675
+JAVA 注解的基本原理 https://www.cnblogs.com/yangming1996/p/9295168.html  
+Java基础加强总结(二)——泛型(孤傲苍狼) https://www.cnblogs.com/xdp-gacl/p/3629723.html 
+Java中的动态代理实现与原理分析 https://www.cnblogs.com/gonjan-blog/p/6685611.html 
+Java 静态代理和动态代理例子 https://www.cnblogs.com/maohuidong/p/7992894.html 
+关于动态代理详解 https://www.cnblogs.com/lesliehe/p/7803388.html 
+随笔分类 - JavaScript https://www.cnblogs.com/xdp-gacl/category/431982.html 
+Lambda表达式详解 https://www.cnblogs.com/haixiang/p/11029639.html 
+Java虚拟机：类加载的5个过程 https://www.jianshu.com/p/3ca14ec823d7 
+Java并发问题--乐观锁与悲观锁以及乐观锁的一种实现方式-CAS https://www.cnblogs.com/qjjazry/p/6581568.html 
+
+Android常用三方库
+android注解 https://www.cnblogs.com/xdp-gacl/p/3622275.html  
+Android开源库分类整理，开发拿来即用 https://www.jianshu.com/p/06ce7bfab946?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation 
+从架构角度看Retrofit的作用、原理和启示 https://www.jianshu.com/p/f57b7cdb1c99 
+你真的会用Retrofit2吗?Retrofit2完全教程 https://www.jianshu.com/p/308f3c54abdd 
+Retrofit2深入浅出 https://www.jianshu.com/p/f2644cc784f3 
+Android架构组件（二）——LiveData https://blog.csdn.net/zhuzp_blog/article/details/78871527 
+Android主流网络请求开源库的对比（Android-Async-Http、Volley、OkHttp、Retrofit） https://blog.csdn.net/u013651026/article/details/78970911 
+Android主流框架RxJava+Retrofit+MVP https://blog.csdn.net/u011916937/article/details/80923138 
+这是一份很详细的 Retrofit 2.0 使用教程（含实例讲解） https://blog.csdn.net/carson_ho/article/details/73732076 
+android架构设计之插件化、组件化 https://blog.csdn.net/mhhyoucom/article/details/79000072 
+Retrofit2与服务端实例讲解 https://blog.csdn.net/new_one_object/article/details/80553694 
+基于Retrofit2.0+RxJava+Dragger2实现不一样的Android网络构架搭建 https://blog.csdn.net/finddreams/article/details/50849385 
+RXJAVA的使用总结 https://blog.csdn.net/kongou/article/details/82629435 
+给 Android 开发者的 RxJava 详解 http://gank.io/post/560e15be2dca930e00da1083 
+RxJava2.0——从放弃到入门 https://www.jianshu.com/p/cd3557b1a474 
+Android Hook Activity 的几种姿势 https://blog.csdn.net/gdutxiaoxu/article/details/81459910 
+Android插件化之startActivity hook的几种姿势 https://www.jianshu.com/p/5c6ff86331c8 
+淘宝开源的一款 RecycleView 的 LayoutManager 扩展——VirtualLayout https://juejin.im/entry/58bfd6cb128fe1006018d084 
+RecycleView 综合使用案例（结合 ButterKnife、Retrofit、Picasso） https://juejin.im/entry/59223c90a0bb9f005f5cd0dd 
+Android常用优秀开源框架整理 https://www.jianshu.com/p/5b29048cbd62 
+Android：手把手带你 深入读懂 Retrofit 2.0 源码 https://www.jianshu.com/p/0c055ad46b6c 
+Android经常使用开源组件汇总 https://www.cnblogs.com/chengzhengfu/p/4601573.html 
+https://www.jianshu.com/p/88aacbed8aa5 RxJava基本原理分析
+https://blog.csdn.net/yulong0809/article/details/58041467 插件化知识详细分解及原理 之ClassLoader及dex加载过程
+https://blog.csdn.net/geduo_83/article/details/90693153 Android组件化+MVP+RxJava+Retrofit+Dagger2项目框架FlyTour新闻客户端使用详解
+https://www.open-open.com/lib/view/open1404286864296.html Android开发免费类库和工具集合
+20个Android必备第三方框架 https://www.jianshu.com/p/458ebd5d3668 
+
+Android View
+自定义View，有这一篇就够了 https://blog.csdn.net/huachao1001/article/details/51577291 
+Android 动画总结 https://www.jianshu.com/p/609b6d88798d  
+Android三种动画详解  https://www.jianshu.com/p/16e0d4e92bb2 
+Android材料设计库之折叠式布局你应该知道的一切 https://blog.csdn.net/geduo_83/article/details/85452569 
+Android ExpandableRecyclerView使用小结 https://blog.csdn.net/mumawen/article/details/75646480 
+Android可折叠收缩伸展的Expandable分组RecyclerView：模型抽象和封装（二） https://blog.csdn.net/zhangphil/article/details/79831131 
+Android仿微信朋友圈全文、收起功能 https://blog.csdn.net/sinat_17775997/article/details/80854315 
+从PhotoView看Android手势监听实践 https://www.jianshu.com/p/913dcd100507 
+自定义View，有这一篇就够了https://blog.csdn.net/huachao1001/article/details/51577291 
+Android 动画总结 https://www.jianshu.com/p/609b6d88798d 
+非常详细的一篇 https://www.jianshu.com/p/11c8ced79193 Android Fragment 
+RecyclerView中ViewHolder重用机制理解(解决图片错乱和闪烁问题) https://blog.csdn.net/lililijunwhy/article/details/79869491 
+RecyclerView使用踩坑全过程 https://blog.csdn.net/limonzet/article/details/56665727 
+RecyclerView瀑布流优化方案探讨 https://juejin.im/post/5d51421de51d45621479acc0 
+郭霖大神的抽丝剥茧心法修炼： 深剖RecyclerView源码 https://juejin.im/entry/5d5204edf265da03d9252b8a 
+https://blog.csdn.net/c10WTiybQ1Ye3/article/details/78098465 RecyclerView 源码分析
+https://www.cnblogs.com/cloudfloating/p/9817251.html Android RecycleView多种布局实现（工厂模式）
+RecyclerView瀑布流优化方案探讨 变身大佬的重要一环，就是自定义View！
+https://mp.weixin.qq.com/s/4QcOMl-cNCCMt_N-Ppeo5Q 视频技术加个餐，学习使用OpenGl来渲染视频！
+https://blog.csdn.net/unicorn97/article/details/80796234 Android动画大合集
+https://www.jianshu.com/nb/15245431 Android理解AMS、WMS
+https://www.cnblogs.com/samchen2009/p/3364327.html 图解Android - Android GUI 系统 (1) - 概论
+https://www.jianshu.com/p/90bbcac35031 关于FragmentPagerAdapter的一些有趣东西
+https://www.cnblogs.com/MianActivity/p/5867776.html Android中shape属性详解 基本属性（corners、gradient、padding、size、solid、stroke）
+https://blog.csdn.net/baoolong/article/details/79607393 Android VideoView播放网络视频简介
+http://weishu.me/about/
+https://blog.csdn.net/qq_34773981/article/details/82022647 TabLayout+ViewPager+Fragment实现切页展示
+http://hukai.me 安卓优化
+https://blog.csdn.net/android_cmos/article/details/68955134 Android中SurfaceView使用详解
+高亮关键字
+其实思路比较简单，对文本中的文字进行匹配，匹配后使用SpannableString(或者SpannableStringBuilder)修改文本的颜色
+https://blog.csdn.net/liu3364575/article/details/88679961 如何设计一个优雅健壮的Android WebView？（上） 基于考拉电商平台的WebView实践
+https://blog.csdn.net/qq_20451879/article/details/80105021 Android进阶之路 - WebView的全面剖析
+https://www.cnblogs.com/aimeng/archive/2012/05/24/2516547.html android用户界面之WebView教程实例汇总
+https://www.cnblogs.com/whoislcj/p/5645025.html Android混合开发之WebView使用总结
+https://blog.csdn.net/lowprofile_coding/article/details/48298819 TextView+Fragment实现底部导航栏
+https://blog.csdn.net/LVXIANGAN/article/details/9309927 Android-onInterceptTouchEvent()和onTouchEvent()总结
+https://www.cnblogs.com/qynprime/p/8026672.html 安卓开发中SpannableString之富文本显示效果
+https://www.jianshu.com/p/7f3e5c8b8643 Android 无入侵解决按钮重复点击---onClick处理<一>
+Android Tangram模型：连淘宝、天猫都在用的UI框架模型你一定要懂 https://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650240554&idx=1&sn=eae4594beebd8a442ccc12e89f421c19&chksm=88638745bf140e53e6cf92d9a74d153e57fc0c96628e7d97f8ceb7d1348672dd7a670ea0b97b&scene=38#wechat_redirect
+
+Android 性能优化和适配
+Android适配全面总结（一）----屏幕适配 https://www.jianshu.com/p/7aa34434ad4d 
+ConstraintLayout 完全解析 快来优化你的布局吧 https://blog.csdn.net/lmj623565791/article/details/78011599 
+性能优化 - 彻底解决内存抖动 https://blog.csdn.net/wanghao200906/article/details/79311288 Android 
+Android高性能编程(1)--基础篇 https://blog.csdn.net/litton_van/article/details/21702299 
+Android面试之性能优化 https://www.jianshu.com/p/3e44250ca2de 
+Android 屏幕适配：最全面的解决方案 https://www.jianshu.com/p/ec5a1a30694b 
+Android优化全面攻略 https://www.jianshu.com/p/244d0ba0ee40 
+
+Andorid 音视频
+https://www.cnblogs.com/renhui/p/7520690.html Android 音视频开发(七)： 音视频录制流程总结
+https://blog.csdn.net/Explorer_day/article/details/79955686 Android音视频编解码库MediaCodec
+https://blog.csdn.net/coloriy/article/details/52807393 https://blog.csdn.net/coloriy/article/details/52807393
+
+Android 其他
+https://juejin.im/post/5d48e9c36fb9a06af13d50f9 Android 复习资料汇总版
+https://www.jianshu.com/p/46774f2f51b1 这可能是最详细的Android面试题
+https://blog.csdn.net/yinxing2008/article/details/84555061 安卓开发技术分享
+https://www.jianshu.com/p/a29755cf512f?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation 2018年Android面试必背（持续更新中
+https://www.ctolib.com/categories/android-app.html  CTO 代码库
+https://blog.csdn.net/plpldog/article/details/7796 个人使用的Android Studio快捷键（MAC版）
+https://www.cnblogs.com/meishan/p/5903497.html Gradle基本知识点与常用配置
+https://www.jianshu.com/p/703794911751  GitHub 上优质项目整理
+https://juejin.im/post/5d29d4def265da1b7638d047 Android复习资料——常见面试算法题汇总
+https://www.jianshu.com/p/39ba005f6d22?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation Android之四组件、五存储、六布局
+https://blog.csdn.net/huangshulang1234/article/details/79061438 理解TCP/IP三次握手与四次挥手的正确姿势
+https://blog.csdn.net/h176nhx7/article/details/79891543 怎样在 Android 面试中聊聊多线程
+https://www.jianshu.com/p/1acdfac2b4e4?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation Java后台面试 常见问题
+https://www.cnblogs.com/yangming1996/p/9120911.html 完整的一次http响应过程
+https://www.jianshu.com/p/efce746836f5 手把手讲解 Android Hook-Activity的启动流程
+https://blog.csdn.net/myth13141314/article/details/91049079 Android接入支付宝和微信支付
+https://blog.csdn.net/weixin_39460667/article/details/82770164 务必知道的Android service的完全详解
+https://www.jianshu.com/p/46d7ef09cb88 Android：打造“万能”Adapter与ViewHolder
+https://juejin.im/post/5d6cae83e51d4561c75f2852 这是一篇成为 git 高手的文章
+https://www.jianshu.com/p/3e16cedba744 Android与JavaScript交互
+https://www.wanandroid.com/blog/show/2629 一款适用经典蓝牙的快速开发框架
+https://juejin.im/post/5d2dee0851882569755f5494 gradle 依赖冲突解决
+https://www.cnblogs.com/hbtmwangjin/p/7941403.html SQLite3命令操作大全
+
+https://blog.csdn.net/salmon_zhang/article/details/76746159 android 事件分发机制：
+Android事件响应机制是“由外到内”分发、“由内到外”处理的形式实现的。
+Android事件分发机制主要由“事件分发”—>“事件拦截”—>“事件响应”这三步来进行逻辑控制的
+ViewGroup默认不拦截任何事件。
+点击事件的分发过程如下：dispatchTouchEvent—>onTouchListener的OnTouch方法—>onTouchEvent—>onClickListener的onClick方法。从而也可以看出onTouch优先于onClick执行。
+子View可以通过使用getParent().requestDisallowInterceptTouchEvent(true),阻止ViewGroup对其MOVE或UP事件进行拦截。
+一个点击事件产生后，传递过程是：Activity—>Window—>View。顶级View接受到事件后，就会按照上面的规则去分发事件。
+
+MVC 中Activity 充当controller的角色，里面既有view的操作也包含逻辑的操作，导致耦合太重，activity 太臃肿，不利于复用和单元测试。
+MVP 中 M和V 的交互通过presenter 完成，presenter 和view 双向引用，所有的逻辑都在presenter 完成，实现M 和 V的解耦。
+MVVM 其实和MVP 是一样的思想，但是借助google 提供的data binding, LiveData 和ViewModel 组件可以自动实现View 和 ViewModel 的双向绑定，
+
+HTTP中的GET，POST，PUT，DELETE就对应着对这个资源的 查，改，增，删 4个操作.HEAD方法与GET方法的行为很类似，但服务器在响应中只返回实体的主体部分
+POST的安全性要比GET的安全性高,因为GET提交数据，用户名和密码将明文出现在URL上。
+
+真正不能再自在子线程更新UI的原因是：UI控件非线程安全，在多线程中并发访问可能会导致UI控件处于不可预期的状态。而不对UI控件的访问加上锁机制的原因有：
+上锁会让UI控件变得复杂和低效
+上锁后会阻塞某些进程的执行
+
+Activity的启动模式
+1） standard 
+此为标准模式，即Activity的默认启动模式 
+（2） singleTop 
+此为栈顶复用模式 
+如果要启动的Activity已位于任务栈的栈顶，则此Activity不会被重新创建 
+不过，此时该Activity的以下方法会被调用
+
+protected void onNewIntent(Intent intent)
+可以通过该intent来传输数据 
+需要注意的是：如果要启动的Activity并不位于栈顶，则会创建该Activity实例，且onNewIntent方法不会被调用
+3） singleTask 
+即栈内复用模式 
+这是一种单实例模式，在该模式下，只要Activity存在于栈中，不管是否位于栈顶，均不会重新创建Activity实例，且系统也会回调其onNewIntent方法 
+如果该Activity存在但不位于栈顶，则系统会弹出该Activity之上的所有Activity，将该Activity置于栈顶
+
+4）singleInstance 
+即单实例模式 
+该模式与singleTask模式类似，不过该模式下的Activity只能单独地位于一个任务栈中 
+
+Android 自定义View,
+1.LayoutInflater layoutInflater = LayoutInflater.from(context);
+2.自定义View的实现方式大概可以分为三种，自绘控件、组合控件、以及继承控件
+
+执行抓包命令：
+
+tcpdump -i any -p -vv -s 0 -w capture.pcap
